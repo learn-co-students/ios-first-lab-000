@@ -18,7 +18,7 @@ if you can make a new file or directory using terminal.
   4. Push that commit to your fork.
   5. Open a Pull Request for your fork.
 
-## 1. Forking from Github
+## 1. Forking from Github/
 
 Forking is the process of making a personal remote copy of the Learn lab.
 
